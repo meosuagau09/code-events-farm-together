@@ -1,0 +1,498 @@
+  "Events": [],
+  "Rewards": [
+    {
+      "id": "FlowerFoxglovePink"
+    },
+    {
+      "id": "DecorationEasterEggs"
+    },
+    {
+      "id": "DecorationEasterBunny"
+    },
+    {
+      "id": "HairHairBoyEaster"
+    },
+    {
+      "id": "HairHairGirlEaster"
+    },
+    {
+      "id": "TagPumpkin"
+    },
+    {
+      "id": "FenceHalloweenLow"
+    },
+    {
+      "id": "TreeHalloweenTree"
+    },
+    {
+      "id": "HairHairGirlWitch"
+    },
+    {
+      "id": "HairHairBoyWitch"
+    },
+    {
+      "id": "FenceLifePreservers"
+    },
+    {
+      "id": "HairHairBoyFisherman"
+    },
+    {
+      "id": "HairHairGirlFisherman"
+    },
+    {
+      "id": "PondBass"
+    },
+    {
+      "id": "BodyBoyFisherman"
+    },
+    {
+      "id": "BodyGirlFisherman"
+    },
+    {
+      "id": "DecorationSubmarine"
+    },
+    {
+      "id": "HairHairBoyFishermanB"
+    },
+    {
+      "id": "HairHairGirlFishermanB"
+    },
+    {
+      "id": "BodyBoyFishermanB"
+    },
+    {
+      "id": "BodyGirlFishermanB"
+    },
+    {
+      "id": "TreeXmasTree"
+    },
+    {
+      "id": "HairHairBoyXmas"
+    },
+    {
+      "id": "HairHairGirlXmas"
+    },
+    {
+      "id": "TagCandyCane"
+    },
+    {
+      "id": "HairHairBoyXmasGreen"
+    },
+    {
+      "id": "HairHairGirlXmasGreen"
+    },
+    {
+      "id": "DecorationGiftSleigh"
+    },
+    {
+      "id": "DecorationSnowman"
+    },
+    {
+      "id": "BodyBoyFiremanSanta"
+    },
+    {
+      "id": "BodyGirlFiremanSanta"
+    },
+    {
+      "id": "BodyGirlSkirtSanta"
+    },
+    {
+      "id": "FenceXmasFence"
+    },
+    {
+      "id": "FenceXmasFenceDoor"
+    },
+    {
+      "id": "FenceXmasArch"
+    },
+    {
+      "id": "GlassesGlassesStarGlow"
+    },
+    {
+      "id": "AppliancePlanetarium"
+    },
+    {
+      "id": "DecorationTelescope"
+    },
+    {
+      "id": "TagHeart"
+    },
+    {
+      "id": "AnimalUnicorn"
+    },
+    {
+      "id": "RoadPergolaValentines"
+    },
+    {
+      "id": "DecorationBenchLovers"
+    },
+    {
+      "id": "HairHairBoySanValentin"
+    },
+    {
+      "id": "HairHairGirlSanValentin"
+    },
+    {
+      "id": "FenceValentinesBalloonsPurple"
+    },
+    {
+      "id": "FenceValentinesBalloonsPink"
+    },
+    {
+      "id": "FlowerFoxglovePink"
+    },
+    {
+      "id": "HairHairBoyStPatricks"
+    },
+    {
+      "id": "HairHairGirlStPatricks"
+    },
+    {
+      "id": "FlowerFoxglovePurple"
+    },
+    {
+      "id": "FlowerFoxgloveYellow"
+    },
+    {
+      "id": "BodyBoySuitPatricks"
+    },
+    {
+      "id": "BodyGirlSuitPatricks"
+    },
+    {
+      "id": "BodyGirlSkirtPatricks"
+    },
+    {
+      "id": "BuildingPotOfGold"
+    },
+    {
+      "id": "TagHorseshoe"
+    },
+    {
+      "id": "RoadGemPath"
+    },
+    {
+      "id": "AnimalRabbitEaster"
+    },
+    {
+      "id": "RoadBrickChoco"
+    },
+    {
+      "id": "FenceEasterLow"
+    },
+    {
+      "id": "TagFlower"
+    },
+    {
+      "id": "TreeFloweringCherry"
+    },
+    {
+      "id": "FarmhandWorkerHawaii"
+    },
+    {
+      "id": "HairHairGirlHanami"
+    },
+    {
+      "id": "HairHairBoyHanami"
+    },
+    {
+      "id": "FenceHanamiLow"
+    },
+    {
+      "id": "FenceHanamiLights"
+    },
+    {
+      "id": "HairHairGirlWitchB"
+    },
+    {
+      "id": "HairHairBoyWitchB"
+    },
+    {
+      "id": "HairHairBoyEasterB"
+    },
+    {
+      "id": "HairHairGirlEasterB"
+    },
+    {
+      "id": "DecorationBonfireLarge"
+    },
+    {
+      "id": "HairHairBoySolsticio"
+    },
+    {
+      "id": "HairHairGirlSolsticio"
+    },
+    {
+      "id": "TreePistachio"
+    },
+    {
+      "id": "BodyBoyCasualSolstice"
+    },
+    {
+      "id": "BodyGirlCasualSolstice"
+    },
+    {
+      "id": "RoadHotCoal"
+    },
+    {
+      "id": "DecorationSunStele"
+    },
+    {
+      "id": "BodyBoySuitPatricks"
+    },
+    {
+      "id": "BodyGirlSuitPatricks"
+    },
+    {
+      "id": "BodyGirlSkirtPatricks"
+    },
+    {
+      "id": "HairHairBoyStPatricks"
+    },
+    {
+      "id": "HairHairGirlStPatricks"
+    },
+    {
+      "id": "FlowerFoxglovePurple"
+    },
+    {
+      "id": "FlowerFoxgloveYellow"
+    },
+    {
+      "id": "BuildingPotOfGold"
+    },
+    {
+      "id": "TagHorseshoe"
+    },
+    {
+      "id": "RoadGemPath"
+    },
+    {
+      "id": "DecorationEasterEggs"
+    },
+    {
+      "id": "DecorationEasterBunny"
+    },
+    {
+      "id": "HairHairBoyEaster"
+    },
+    {
+      "id": "HairHairGirlEaster"
+    },
+    {
+      "id": "AnimalRabbitEaster"
+    },
+    {
+      "id": "RoadBrickChoco"
+    },
+    {
+      "id": "FenceEasterLow"
+    },
+    {
+      "id": "TagFlower"
+    },
+    {
+      "id": "TreeFloweringCherry"
+    },
+    {
+      "id": "HairHairGirlHanami"
+    },
+    {
+      "id": "HairHairBoyHanami"
+    },
+    {
+      "id": "HairHairBoyEasterB"
+    },
+    {
+      "id": "HairHairGirlEasterB"
+    },
+    {
+      "id": "DecorationSurfBoard"
+    },
+    {
+      "id": "FlowerDandelion"
+    },
+    {
+      "id": "DecorationCampingTent"
+    },
+    {
+      "id": "FenceCelticMenhir"
+    },
+    {
+      "id": "FenceCelticDolmen"
+    },
+    {
+      "id": "BackpackBackpackGaita"
+    },
+    {
+      "id": "DecorationYew"
+    },
+    {
+      "id": "HairHairBoyHorns"
+    },
+    {
+      "id": "HairHairGirlHorns"
+    },
+    {
+      "id": "Dreamcatcher"
+    },
+    {
+      "id": "FenceCenser"
+    },
+    {
+      "id": "TreeXmasTree"
+    },
+    {
+      "id": "HairHairBoyXmas"
+    },
+    {
+      "id": "HairHairGirlXmas"
+    },
+    {
+      "id": "HairHairBoyXmasGreen"
+    },
+    {
+      "id": "HairHairGirlXmasGreen"
+    },
+    {
+      "id": "DecorationSnowman"
+    },
+    {
+      "id": "TagCandyCane"
+    },
+    {
+      "id": "DecorationGiftSleigh"
+    },
+    {
+      "id": "BodyBoyFiremanSanta"
+    },
+    {
+      "id": "BodyGirlFiremanSanta"
+    },
+    {
+      "id": "BodyGirlSkirtSanta"
+    },
+    {
+      "id": "FenceXmasFenceDoor"
+    },
+    {
+      "id": "FenceXmasFence"
+    },
+    {
+      "id": "FenceXmasArch"
+    },
+    {
+      "id": "DecorationSantasReindeerYellow"
+    },
+    {
+      "id": "DecorationSantasRudolfYellow"
+    },
+    {
+      "id": "BodyBoyJerseyLargoReno"
+    },
+    {
+      "id": "BodyGirlJerseyLargoReno"
+    },
+    {
+      "id": "DecorationFireplaceXmas"
+    },
+    {
+      "id": "DecorationSantasReindeerBlue"
+    },
+    {
+      "id": "DecorationSantasRudolfBlue"
+    },
+    {
+      "id": "FenceBoneArch"
+    },
+    {
+      "id": "AccessoryPlushDino"
+    },
+    {
+      "id": "HairHairBoyExplorer"
+    },
+    {
+      "id": "HairHairGirlExplorer"
+    },
+    {
+      "id": "RoadXylophonePath"
+    },
+    {
+      "id": "TreeChestnutTree"
+    },
+    {
+      "id": "HairHairBoyCowboyCountry"
+    },
+    {
+      "id": "HairHairGirlCowboyCountry"
+    },
+    {
+      "id": "BodyBoyCowboyCountry"
+    },
+    {
+      "id": "BodyGirlCowboyCountry"
+    },
+    {
+      "id": "DecorationMusicStage"
+    },
+    {
+      "id": "EmoteEmoteBaile3"
+    },
+    {
+      "id": "FenceFlyingCandles"
+    },
+    {
+      "id": "PetBirdOwlB"
+    },
+    {
+      "id": "PetBirdOwlC"
+    },
+    {
+      "id": "AnimalHorseMagicIce"
+    },
+    {
+      "id": "AnimalHorseMagicFire"
+    },
+    {
+      "id": "AnimalHorseMagicArcane"
+    },
+    {
+      "id": "FenceAnniversaryFence"
+    },
+    {
+      "id": "DecorationWindowTallLightsBlue"
+    },
+    {
+      "id": "DecorationWindowTallLightsGreen"
+    },
+    {
+      "id": "AccessoryCake"
+    },
+    {
+      "id": "HairHairBoyCrown"
+    },
+    {
+      "id": "HairHairGirlCrown"
+    },
+    {
+      "id": "DecorationWindowTallLightsPink"
+    },
+    {
+      "id": "DecorationWindowTallLightsYellow"
+    },
+    {
+      "id": "DecorationCarpetStar"
+    },
+    {
+      "id": "DecorationCarpetStarBig"
+    },
+    {
+      "id": "DecorationBuoySign"
+    },
+    {
+      "id": "DecorationBuoyFlag"
+    },
+    {
+      "id": "BackpackBackpackTurtle"
+    }
+  ]
